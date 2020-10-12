@@ -1,0 +1,41 @@
+export const users = [
+        {
+            "id":1,
+            "username":"infkadeal",
+            "firstName":"Fkadeal",
+            "lastName":"Matiwos",
+            "email":"infkadeal@gmail.com",
+            "isAdmin":true,
+            "twoots":[
+                {"id":1,"content":"Twotter is Amzing"},
+                {"id":2,"content":"don't forget to subscribe to #etbaba"}
+            ]
+        },
+        {
+            "id":2,
+            "username":"fkadeal",
+            "firstName":"kadeal",
+            "lastName":"atiwos",
+            "email":null,
+            "isAdmin":false,
+            "twoots":[]
+        },
+        {
+            "id":3,
+            "username":"kadeal",
+            "firstName":"adeal",
+            "lastName":"tiwos",
+            "email":null,
+            "isAdmin":false,
+            "twoots":[]
+        },
+        {
+            "id":4,
+            "username":"deal",
+            "firstName":"deal",
+            "lastName":"iwos",
+            "email":null,
+            "isAdmin":false,
+            "twoots":[]
+        }
+    ];
